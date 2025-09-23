@@ -2,7 +2,9 @@
 
 A dark and atmospheric horror trivia game inspired by the cult classic video game "Harvester" (1996). Test your knowledge of one of gaming's most controversial and bizarre horror adventures while immersed in a blood-dripping, haunting interface.
 
-![Harvester Character](harvester666.png)
+**All trivia questions are based on the original Harvester (1996) game story, characters, and lore.**
+
+> 🎬 **Inspiration**: [Harvester (1996) on IMDb](https://www.imdb.com/title/tt0219075/)
 
 ## 🎮 About the Game
 
