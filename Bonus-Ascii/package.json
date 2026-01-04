@@ -1,0 +1,13 @@
+{
+  "name": "ascii-live-harvester",
+  "version": "1.0.0",
+  "description": "Animated ASCII art of the Harvester logo for terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["ascii", "animation", "terminal", "harvester"],
+  "author": "",
+  "license": "MIT"
+}
